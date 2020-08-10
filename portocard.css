@@ -1,0 +1,46 @@
+body {
+    font-family: Noto Sans, sans-serif;
+    font-size: 22px;
+	}
+
+	.Producao{
+    font-family: Noto Sans, sans-serif;
+    margin-left:9px;
+	border-collapse: collapse;
+	}
+	
+	th, td{
+    text-align:center;
+    font-size:15px;
+	border-bottom: 1px solid #ddd;
+	padding:8px;
+	}
+	
+	th{
+	background: #270897;
+	color: white;
+	}
+
+	.imagemArea{
+    margin-right:1px;
+    width:10px;
+    mask-image:none;
+	}
+
+h2{
+    font-size:25px;
+    color:#303030;
+    margin-left:9px;
+}
+
+p{
+    margin-left:9px;
+    color: #858585;
+    font-size:12px;
+}
+
+address{
+    margin-left:9px;
+    color: #858585;
+    font-size:10px;
+}
